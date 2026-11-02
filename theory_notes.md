@@ -4,11 +4,13 @@ save previous like if we have application of bank and some customers deposit
 some amount of money in his account and when he re open the application then
 there balance become zero because it did'nt save previous data so we have to
 use file handling in which it saves all our data in a file.
+
 >>>Modes in file handling:
 For creating a file we have some modes in python we have to write variable and
 assingn this data: write open and in parenthesis in double codes write address
 of file comma and in double code it auttomatically suggest all modes and we use
 that we need at that time.
+
 >>"r" mode:
 "r" mode is use to read a file for reding a file we have to use we have to just 
 open by write "r" at the place of mode in parenthesis and write file name and assign
