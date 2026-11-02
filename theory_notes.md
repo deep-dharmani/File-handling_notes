@@ -106,3 +106,4 @@ mode and as that variable name where we want to store and give identation enter 
 function inside that.
 
 HERE are some important modes in file handling of python for more visit :
+https://github.com/deep-dharmani/FIle-handling_notes/blob/main/other_modes.md
